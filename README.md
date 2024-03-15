@@ -2,6 +2,8 @@
 
 ## Resume Building deliverables 
 -Edit resume and GitHub profiles based on content in session
+
+
 -Edit LinkedIn account and increase number of connections
 
 ## Networking deliverables 
