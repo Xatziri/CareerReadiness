@@ -1,8 +1,8 @@
 # This Repo contains the following:
 
 ## Resume Building deliverables 
-Edit resume and GitHub profiles based on content in session
-Edit LinkedIn account and increase number of connections
+-Edit resume and GitHub profiles based on content in session
+-Edit LinkedIn account and increase number of connections
 
 ## Networking deliverables 
 Using the cover letter sample, create your own cover letter template that reflects your writing style and your experience. 
